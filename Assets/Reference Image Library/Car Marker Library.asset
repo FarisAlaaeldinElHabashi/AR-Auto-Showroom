@@ -27,7 +27,7 @@ MonoBehaviour:
       m_GuidHigh: 1567587336288737003
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: MclarenW1
+    m_Name: McLarenW1
     m_Texture: {fileID: 2800000, guid: 9a44c5c3a14bd7e4eb16e47d6030c115, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4953933650755379029
@@ -37,7 +37,7 @@ MonoBehaviour:
       m_GuidHigh: 12128183280821994490
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: MclarenP1
+    m_Name: McLarenP1
     m_Texture: {fileID: 2800000, guid: ca1afde07cd97884fa033aa06ff64fa8, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4754448240905214362
@@ -47,5 +47,5 @@ MonoBehaviour:
       m_GuidHigh: 12551555640477711675
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: lambo
+    m_Name: Lamborghini
     m_Texture: {fileID: 2800000, guid: c8707606edef3dd43b7d39a15a1530ae, type: 3}

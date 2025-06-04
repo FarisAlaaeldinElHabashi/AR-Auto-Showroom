@@ -2080,8 +2080,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -119, y: 300}
-  m_SizeDelta: {x: 190, y: 30}
+  m_AnchoredPosition: {x: -146, y: 375}
+  m_SizeDelta: {x: 120, y: 30}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &502182144
 MonoBehaviour:
@@ -2127,9 +2127,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 102900000, guid: 8e803a687b3ea4c4198f27cf9b586a94, type: 3}
-        m_TargetAssemblyTypeName: CarAnimationTrigger, Assembly-CSharp
-        m_MethodName: 
+      - m_Target: {fileID: 1571495545}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: Loadmenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
